@@ -31,5 +31,5 @@ License: GPL v3 or later
 - Encrypt it with [Bruteforce Save Data](https://www.sendspace.com/file/l1zu5m) (compatible with [Wine](https://www.winehq.org/)) or a similar tool
 - Restore your save from your USB drive
 
-# Tested with:
+# Tested games:
   Ratchet & Clank (Trilogy) (PS3 → PS Vita)
