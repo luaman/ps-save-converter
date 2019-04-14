@@ -1,4 +1,4 @@
-# ps-save-converter
+# PS Save Converter
 Experimental PS3&lt;->PS Vita Save Converter
 
 License: GPL v3 or later
