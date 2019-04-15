@@ -11,7 +11,7 @@ License: GPL v3 or later
 - Rename the converted file (e.g. Ratchet & Clank (Trilogy): "USR-DATA-CONVERTED" to "RC1_SAVEDATA_1.bin")
 - Copy the new file to your PS Vita
 - Open VitaShell
-- Copy the file
+- Copy (don't move) the file
 - Open ux0:user/00/savedata
 - Highlight your game's save folder, press Δ, select Open decrypted
 - Delete your old save file and paste the new one (you should back up your original save, just in case)
@@ -23,7 +23,7 @@ License: GPL v3 or later
 - Open VitaShell
 - Open ux0:user/00/savedata
 - Highlight your game's save folder, press Δ, select Open decrypted
-- Copy your save file (e.g. Ratchet & Clank (Trilogy): "RC1_SAVEDATA_1.bin") to ux0:data
+- Copy (don't move) your save file (e.g. Ratchet & Clank (Trilogy): "RC1_SAVEDATA_1.bin") to ux0:data
 - Copy the save file to your PC
 - Use PS Save Converter to convert your save file
 - Rename the converted file (e.g. Ratchet & Clank (Trilogy): "RC1_SAVEDATA_1.bin-CONVERTED" to "USR-DATA")
